@@ -41,6 +41,13 @@ This application is deployed and hosted on **Streamlit Community Cloud**.
 👉 [http://localhost:8501](http://localhost:8501)
 
 
+## 💻 How to Run
+1. Clone the repository  
+2. Install dependencies using `pip install -r requirements.txt`  
+3. Add your Cohere API key in `.env`  
+4. Run using `streamlit run home.py`
+
+
 ## 🤝 Contribution  
 
 This project was developed by **Khadija** as a demonstration of an **AI-enhanced application**.  
