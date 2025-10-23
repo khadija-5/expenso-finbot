@@ -36,48 +36,6 @@ This application is deployed and hosted on **Streamlit Community Cloud**.
 
 ---
 
-## 💻 Local Setup (Install & Run)
-
-### 1. Prerequisites
-You must have **Python 3.8+** installed on your system.
-
-### 2. Clone the Repository
-```bash
-git clone https://github.com/khadija-5/expenso-finbot.git
-cd expenso-finbot
-
-### 3. Setup Virtual Environment (Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Linux/macOS
-.\venv\Scripts\activate   # On Windows
-
-
----
-
-### 4. Install Dependencies  
-Install all required Python packages from the `requirements.txt` file:  
-
-```bash
-pip install -r requirements.txt
-
-
-### 5. Configure API Key  
-
-Create a file named `.env` in the root directory (same place as `home.py`) and add your Cohere API key:  
-
-```bash
-# .env file content
-COHERE_API_KEY="YOUR_COHERE_API_KEY_HERE"
-
-
-### 6. Run the Application  
-
-Start the Streamlit application from the root directory:  
-
-```bash
-streamlit run home.py
 
 ## The application will open in your web browser, typically at:  
 👉 [http://localhost:8501](http://localhost:8501)
