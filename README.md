@@ -32,7 +32,7 @@ An intelligent personal finance management application built with **Python** and
 
 This application is deployed and hosted on **Streamlit Community Cloud**.
 
-**Live Demo:** [Yahan apni deployed Streamlit App ka Link Daal Dein]
+**Live Demo:** https://expenso-finbot-y8pfru5imnfka99dfq82i7.streamlit.app/
 
 ---
 
