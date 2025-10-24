@@ -2,3 +2,4 @@ streamlit
 pandas
 cohere
 python-dotenv
+plotly
