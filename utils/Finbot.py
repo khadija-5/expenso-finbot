@@ -5,7 +5,7 @@ import os
 
 # load_dotenv()
 # api_key = os.getenv("COHERE_API_KEY")
-api_key = st.secrets("COHERE_API_KEY")
+api_key = st.secrets["COHERE_API_KEY"]
 co = cohere.Client(api_key)
 
 def get_budget_insights(user_query, transactions_text):
