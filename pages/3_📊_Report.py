@@ -9,7 +9,7 @@ from utils.Finbot import get_budget_insights
 
 # load_dotenv()
 # api_key = os.getenv("COHERE_API_KEY")
-api_key = st.secrets("COHERE_API_KEY")
+api_key = st.secrets["COHERE_API_KEY"]
 co = cohere.Client(api_key)
 
 if "logged_in" not in st.session_state or not st.session_state.logged_in:
