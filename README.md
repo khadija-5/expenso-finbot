@@ -2,7 +2,6 @@
 
 An intelligent personal finance management application built with **Python** and **Streamlit**, featuring an **AI chatbot (FinBot)** for personalized budgeting and financial insights.
 
-*(Optional: Agar aapke paas apne project ka screenshot hai to yahan daal dein)*
 
 ---
 
@@ -37,10 +36,6 @@ This application is deployed and hosted on **Streamlit Community Cloud**.
 ---
 
 
-## The application will open in your web browser, typically at:  
-👉 [http://localhost:8501](http://localhost:8501)
-
-
 ## 💻 How to Run
 1. Clone the repository  
 2. Install dependencies using `pip install -r requirements.txt`  
@@ -51,7 +46,7 @@ This application is deployed and hosted on **Streamlit Community Cloud**.
 ## 🤝 Contribution  
 
 This project was developed by **Khadija** as a demonstration of an **AI-enhanced application**.  
-Feel free to **fork** the repository or suggest **improvements!**
+
 
 
 
